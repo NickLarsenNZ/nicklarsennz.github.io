@@ -3,52 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://nicklarsennz.github.io/posts/antlr/02-implementing-the-parser/</loc>
+    <lastmod>2020-01-22T15:22:22+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nicklarsennz.github.io/tags/antlr/</loc>
+    <lastmod>2020-01-22T15:22:22+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nicklarsennz.github.io/tags/code/</loc>
+    <lastmod>2020-01-22T15:22:22+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nicklarsennz.github.io/tags/kotlin/</loc>
+    <lastmod>2020-01-22T15:22:22+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nicklarsennz.github.io/</loc>
+    <lastmod>2020-01-22T15:22:22+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nicklarsennz.github.io/tags/parser/</loc>
+    <lastmod>2020-01-22T15:22:22+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nicklarsennz.github.io/posts/</loc>
+    <lastmod>2020-01-22T15:22:22+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nicklarsennz.github.io/series/</loc>
+    <lastmod>2020-01-22T15:22:22+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nicklarsennz.github.io/tags/</loc>
+    <lastmod>2020-01-22T15:22:22+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nicklarsennz.github.io/tags/tdd/</loc>
+    <lastmod>2020-01-22T15:22:22+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nicklarsennz.github.io/series/writing-a-parser-for-a-small-language/</loc>
+    <lastmod>2020-01-22T15:22:22+13:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nicklarsennz.github.io/posts/antlr/01-writing-a-parser-for-a-small-language/</loc>
     <lastmod>2020-01-18T14:37:50+03:30</lastmod>
   </url>
   
   <url>
-    <loc>https://nicklarsennz.github.io/tags/antlr/</loc>
-    <lastmod>2020-01-18T14:37:50+03:30</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nicklarsennz.github.io/tags/grammar/</loc>
-    <lastmod>2020-01-18T14:37:50+03:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nicklarsennz.github.io/tags/kotlin/</loc>
-    <lastmod>2020-01-18T14:37:50+03:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nicklarsennz.github.io/</loc>
-    <lastmod>2020-01-18T14:37:50+03:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nicklarsennz.github.io/tags/parser/</loc>
-    <lastmod>2020-01-18T14:37:50+03:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nicklarsennz.github.io/posts/</loc>
-    <lastmod>2020-01-18T14:37:50+03:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nicklarsennz.github.io/series/</loc>
-    <lastmod>2020-01-18T14:37:50+03:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nicklarsennz.github.io/tags/</loc>
-    <lastmod>2020-01-18T14:37:50+03:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nicklarsennz.github.io/series/writing-a-parser-for-a-small-language/</loc>
     <lastmod>2020-01-18T14:37:50+03:30</lastmod>
   </url>
   
